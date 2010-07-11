@@ -1,3 +1,7 @@
 First comment after dl no commit at this stage
+<<<<<<< HEAD
 dded 3
 and again
+=======
+line added one
+>>>>>>> one
